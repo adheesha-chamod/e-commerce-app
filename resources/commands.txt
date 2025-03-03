@@ -4,7 +4,8 @@ docker compose down
 
 
 postgres:
-    root password: postgres
+    username: root
+    password: postgres
 
 mongo-express:
     username: admin
