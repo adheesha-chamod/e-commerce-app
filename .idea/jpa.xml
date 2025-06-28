@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="product" name="product" framework="JPA" ormUnit="product:product" defaultDataSourceId="a55a963b-835e-4680-b77a-4e2cd5a1041f" />
+      <persistence-unit moduleName="product" name="entityManagerFactory" framework="JPA" ormUnit="product:entityManagerFactory" defaultDataSourceId="a55a963b-835e-4680-b77a-4e2cd5a1041f" />
+    </persistence-units>
+  </component>
+</project>
